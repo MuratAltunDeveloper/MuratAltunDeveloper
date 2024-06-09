@@ -21,3 +21,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murataltundeveloper&show_icons=true&locale=en" alt="murataltundeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murataltundeveloper&" alt="murataltundeveloper" /></p>
+
+
+![snake gif](https://github.com/MuratAltunDeveloper/MuratAltunDeveloper/blob/output/github-contribution-grid-snake.gif)
+
+
+
