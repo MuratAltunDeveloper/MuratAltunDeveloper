@@ -1,4 +1,4 @@
-![MasterHead](https://binyaprak.com/images/blog_images/11067/computer-program-code_1385-63_20210128-202659_1.jpg)
+![MasterHead](https://st.depositphotos.com/1756445/4385/i/600/depositphotos_43853635-stock-photo-word-cloud-programming-languages-or.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Şaban Murat Altun</h1>
