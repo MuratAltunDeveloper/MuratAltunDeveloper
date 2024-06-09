@@ -1,4 +1,4 @@
-[![MasterHead](https://www.iakademi.com/en-iyi-yazilim-programlari/)
+[![MasterHead]([https://www.iakademi.com/en-iyi-yazilim-programlari/](https://www.iakademi.com/wp-content/uploads/2023/02/en-iyi-yazilim-programlari-1170x500.jpg))
 
 
 <h1 align="center">Hi 👋, I'm Şaban Murat Altun</h1>
